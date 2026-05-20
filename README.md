@@ -1,6 +1,10 @@
 # Bookstore IA 
 
+
+
 ![Demonstração do projeto](src/main/java/com/bookstore/IA/assets/OllamaiIA.gif)
+
+
 
 API inteligente desenvolvida em **Java 21** com **Spring Boot** integrada ao **Ollama** para geração automática de reviews e recomendações de livros utilizando Inteligência Artificial local.
 
